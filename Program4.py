@@ -22,7 +22,7 @@ def primeFinder (max):
 
 #print(fibonacciFinder(100), primeFinder(15))
 
-def triangleArea(base, height):
+def triangleArea(base, height): 
     area = base*height/2
     return area
 
